@@ -18,15 +18,15 @@ Buku ini membangun deep learning dari nol: tidak ada framework yang digunakan da
 ├── requirements.txt
 ├── data/mnist/                 # MNIST (file idx gzip) yang digunakan oleh bab 7-10
 └── notebooks/
-    ├── Chapter 1 - Introducing Deep Learning.ipynb
-    ├── Chapter 2 - Fundamental Concepts.ipynb
-    ├── Chapter 3 - Forward Propagation.ipynb
-    ├── Chapter 4 - Gradient Descent.ipynb
-    ├── Chapter 5 - Generalizing Gradient Descent.ipynb
-    ├── Chapter 6 - Backpropagation.ipynb
-    ├── Chapter 7 - Picturing Neural Networks.ipynb
-    ├── Chapter 8 - Regularization and Batching.ipynb
-    ├── Chapter 9 - Activation Functions.ipynb
+    ├── Chapter 01 - Introducing Deep Learning.ipynb
+    ├── Chapter 02 - Fundamental Concepts.ipynb
+    ├── Chapter 03 - Forward Propagation.ipynb
+    ├── Chapter 04 - Gradient Descent.ipynb
+    ├── Chapter 05 - Generalizing Gradient Descent.ipynb
+    ├── Chapter 06 - Backpropagation.ipynb
+    ├── Chapter 07 - Picturing Neural Networks.ipynb
+    ├── Chapter 08 - Regularization and Batching.ipynb
+    ├── Chapter 09 - Activation Functions.ipynb
     └── Chapter 10 - Convolutional Neural Networks.ipynb
 ```
 
